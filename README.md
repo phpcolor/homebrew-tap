@@ -1,4 +1,4 @@
-# Phpcolor Tap
+# PHPColor Homebrew Tap
 
 ## How do I install these formulae?
 
